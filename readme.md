@@ -16,11 +16,11 @@ It took me 2.5 hours to complete this project.
 **Note :** This project is not optimized for mobile yet.
 
 
-**[Live Project's netlify link](https://law-firm-landing-page-project-03.netlify.app/ "Project link")**
+**[Live Project's netlify link](https://digital-marketing-homepage-project-04.netlify.app/ "Project link")**
 
 
 
-[![Project ScreenShot](./css%20project_04%20done.png)](https://law-firm-landing-page-project-03.netlify.app/ "Project link")
+[![Project ScreenShot](./css%20project_04%20done.png)](https://digital-marketing-homepage-project-04.netlify.app/ "Project link")
 
 
-[![Badge](https://img.shields.io/badge/Project__04-Digital%20Marketing%20Homepage-yellow)](https://law-firm-landing-page-project-03.netlify.app/ "Project link")
+[![Badge](https://img.shields.io/badge/Project__04-Digital%20Marketing%20Homepage-yellow)](https://digital-marketing-homepage-project-04.netlify.app/ "Project link")
