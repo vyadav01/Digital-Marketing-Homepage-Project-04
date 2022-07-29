@@ -1,0 +1,108 @@
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 115px;
+}
+
+.navbar-container div img {
+  width: 100px;
+}
+
+.navbar-container .grow-list .list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  list-style-type: none;
+  margin: 0px 30px;
+}
+
+.navbar-container .grow-list {
+  flex: 1;
+}
+
+.navbar-container .grow-list .list .list-item {
+  margin: 0px 15px;
+  padding: 0px 10px;
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  color: #bebebe;
+}
+
+.navbar-container .grow-list .list .list-item:hover {
+  color: #151515;
+  font-weight: 600;
+}
+
+.nav-button {
+  background-color: #5955b3;
+  padding: 10px 25px;
+  font-size: 15px;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  border-radius: 10px;
+  border: none;
+}
+
+.nav-button:hover {
+ background-color: #611BEC;
+}
+  
+
+
+.banner-container {
+  display: flex;
+  align-items: center;
+  margin: 50px 0px 20px 80px;
+}
+
+.banner-container div:first-child {
+  margin-left: 37px;
+}
+
+.banner-container div:last-child {
+  margin-left: 156px;
+}
+
+.banner-container .heading-text {
+  font-size: 50px;
+  color: #3c2f60;
+  font-family: "Poppins", sans-serif;
+  max-width: 10ch;
+  margin-top: 30px;
+  line-height: 60px;
+}
+
+.banner-container .heading-text span {
+  color: #5955b3;
+}
+
+.banner-container .description {
+  font-size: 15px;
+  color: #888888;
+  font-family: "Poppins", sans-serif;
+  max-width: 37ch;
+  margin: 20px 0px 30px 0px;
+}
+
+.banner-container .nav-button.btn {
+  padding: 20px 45px;
+  margin-top: 30px;
+}
+
+.banner-container div img {
+  width: 610px;
+  margin-left: 40px;
+}
